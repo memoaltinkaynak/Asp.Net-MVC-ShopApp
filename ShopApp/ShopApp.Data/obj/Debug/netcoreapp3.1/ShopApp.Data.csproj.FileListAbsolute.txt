@@ -1,0 +1,48 @@
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.deps.json
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.json
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.dev.json
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.dll
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.pdb
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.AssemblyReference.cache
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfo.cs
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CopyComplete
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.dll
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.pdb
+C:\Users\HP VİCTUS\Source\Repos\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.genruntimeconfig.cache
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.deps.json
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.json
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.dev.json
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.dll
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.pdb
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.AssemblyReference.cache
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfo.cs
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CopyComplete
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.dll
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.pdb
+C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.genruntimeconfig.cache
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.deps.json
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.json
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.dev.json
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.dll
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.pdb
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.AssemblyReference.cache
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfo.cs
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CopyComplete
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.dll
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.pdb
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.genruntimeconfig.cache
