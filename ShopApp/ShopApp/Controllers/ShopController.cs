@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using ShopApp.Business.Abstract;
 using ShopApp.Entity;
 using ShopApp.Models;
-using ShopApp.ViewModels;
 using System.Linq;
 using System.Reflection.Metadata;
 
@@ -52,8 +52,16 @@ namespace ShopApp.Controllers
                 Product = product,
                 Categories = product.ProductCategories.Select(i => i.Category).ToList()
             });
+        }
 
+        public ActionResult Search(string q)
+        {
+            var productViewModel = new ProductListViewModel()
+            {               
+                Products = _productService.GetSearchResult(q)
+            };
 
+            return View(productViewModel);
         }
     }
 }

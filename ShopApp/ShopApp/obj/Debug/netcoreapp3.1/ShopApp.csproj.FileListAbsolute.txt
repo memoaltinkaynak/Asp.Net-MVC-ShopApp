@@ -496,7 +496,6 @@ C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
@@ -511,3 +510,11 @@ C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopAp
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.dll
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.pdb
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Search.cshtml.g.cs
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductEdit.cshtml.g.cs
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryEdit.cshtml.g.cs
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductCreate.cshtml.g.cs
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryCreate.cshtml.g.cs

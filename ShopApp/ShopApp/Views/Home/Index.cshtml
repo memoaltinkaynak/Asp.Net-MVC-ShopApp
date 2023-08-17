@@ -1,4 +1,4 @@
-﻿@using ShopApp.ViewModels;
+﻿@using ShopApp.Models;
 @model ProductListViewModel
 
 <partial name="_header">
@@ -8,6 +8,7 @@
     <div class="row">
         <div class="col-md-3">
             @await Component.InvokeAsync("Categories")
+            <partial name="_search">
         </div>
         <div class="col-md-9">
 

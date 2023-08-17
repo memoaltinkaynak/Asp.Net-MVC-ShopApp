@@ -1,6 +1,6 @@
 ﻿<div class="navbar bg-dark navbar-dark navbar-expand-sm">
     <div class="container">
-        <a href="/" class="navbar-brand">ShopApp</a>
+        <a href="/" class="navbar-brand">MemoApp</a>
         <ul class="navbar-nav mr-auto">
 
             <li class="nav-item">
@@ -15,21 +15,13 @@
                 <a href="#" class="nav-link">Orders</a>
             </li>
 
-
             <li class="nav-item">
-                <a asp-controller="adin" asp-action="createproduct" class="nav-link">Add Product</a>
+                <a asp-controller="admin" asp-action="productlist" class="nav-link">Admin Product</a>
             </li>
 
             <li class="nav-item">
-                <a asp-controller="adin" asp-action="productlist" class="nav-link">Admin Product</a>
-            </li>
-
-
+                <a asp-controller="admin" asp-action="categorylist" class="nav-link">Admin Category</a>
+            </li>         
         </ul>
-
-        <form action="/product/list" class="form-inline">
-            <input name="q" type="text" class="form-control mr-2" placeholder="Search">
-            <button type="submit" class="btn btn-outline-light mr-0">Search</button>
-        </form>
     </div>
 </div>

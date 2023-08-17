@@ -24,6 +24,7 @@ namespace ShopApp.Data.Concrete.EfCore
         {
             using (var context = new TContext())
             {
+               // context.Set<TEntity>().Remove(Entity.Category.Where(i => i.id == id));
                 context.Set<TEntity>().Remove(entity);
                 context.SaveChanges();
             }

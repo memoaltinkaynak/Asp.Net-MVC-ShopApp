@@ -2,7 +2,7 @@
 using ShopApp.Business.Abstract;
 using ShopApp.Data;
 using ShopApp.Data.Absctract;
-using ShopApp.ViewModels;
+using ShopApp.Models;
 using System;
 using System.Collections.Generic;
 
@@ -23,7 +23,7 @@ namespace ShopApp.Controllers
 
             var productViewModel = new ProductListViewModel()
             {
-                Products = _productService.GetAll()
+                Products = _productService.GetHomePageProducts()
             };
 
             return View(productViewModel);
