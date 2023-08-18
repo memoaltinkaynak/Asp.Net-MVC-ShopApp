@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using Microsoft.CodeAnalysis;
@@ -13,6 +14,7 @@ using System.Threading.Tasks;
 
 namespace ShopApp.Controllers
 {
+    [Authorize]
     public class AdminController : Controller
     {
         private IProductService _productService;
