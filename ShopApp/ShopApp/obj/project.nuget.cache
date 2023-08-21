@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zs8pszdBE0GFdY8JqCYDiirDHEEkLo+6wIKjJtOQRPdOp5c92HiQgnsg5cejC9fga0ArgLjB80/8cK67PAf0iw==",
+  "dgSpecHash": "m8PeJ5zgkcgbBpJJw8s+81g7hefMUOTUFABL5/7xubkS21ycueLGTu3dg3ecs5mkn3nkymmXoZP6SP6liCGlyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp\\ShopApp.csproj",
+  "projectFilePath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp\\ShopApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\memo\\.nuget\\packages\\bootstrap\\4.4.1\\bootstrap.4.4.1.nupkg.sha512",
     "C:\\Users\\memo\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",

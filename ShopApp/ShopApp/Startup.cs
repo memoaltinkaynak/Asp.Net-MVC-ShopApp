@@ -13,6 +13,7 @@ using ShopApp.Business.Abstract;
 using ShopApp.Business.Concrete;
 using ShopApp.Data.Absctract;
 using ShopApp.Data.Concrete.EfCore;
+using ShopApp.EmailServices;
 using ShopApp.Identity;
 using System;
 using System.Collections.Generic;
@@ -24,9 +25,11 @@ namespace ShopApp
 {
     public class Startup
     {
+        private IConfiguration _configuration;
+
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
+            _configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
@@ -78,6 +81,15 @@ namespace ShopApp
 
             services.AddScoped<ICategoryService, CategoryManager>();
             services.AddScoped<IProductService, ProductManager>();
+
+            services.AddScoped<IEmailSender, SmtpEmailSender>(i=>
+                new SmtpEmailSender(
+                    _configuration["EmailSender:Host"],
+                    _configuration.GetValue<int>("EmailSender:Port"),
+                    _configuration.GetValue<bool>("EmailSender:EnableSSL"),
+                    _configuration["EmailSender:UserName"],
+                    _configuration["EmailSender:Password"]   )
+                );
 
             services.AddControllersWithViews();
             //services.AddRazorPages();

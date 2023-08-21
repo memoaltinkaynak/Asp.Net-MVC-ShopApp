@@ -525,3 +525,4 @@ C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Micros
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\memo\OneDrive\Masaüstü\shopapp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs

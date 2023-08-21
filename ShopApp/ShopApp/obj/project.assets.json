@@ -8910,11 +8910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp\\ShopApp.csproj",
+      "projectUniqueName": "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp\\ShopApp.csproj",
       "projectName": "ShopApp",
-      "projectPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp\\ShopApp.csproj",
+      "projectPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp\\ShopApp.csproj",
       "packagesPath": "C:\\Users\\memo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp\\obj\\",
+      "outputPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8937,14 +8937,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp.Business\\ShopApp.Business.csproj": {
-              "projectPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp.Business\\ShopApp.Business.csproj"
+            "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp.Business\\ShopApp.Business.csproj": {
+              "projectPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp.Business\\ShopApp.Business.csproj"
             },
-            "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp.Data\\ShopApp.Data.csproj": {
-              "projectPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp.Data\\ShopApp.Data.csproj"
+            "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp.Data\\ShopApp.Data.csproj": {
+              "projectPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp.Data\\ShopApp.Data.csproj"
             },
-            "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp.Entity\\ShopApp.Entity.csproj": {
-              "projectPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp.Entity\\ShopApp.Entity.csproj"
+            "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp.Entity\\ShopApp.Entity.csproj": {
+              "projectPath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp.Entity\\ShopApp.Entity.csproj"
             }
           }
         }
