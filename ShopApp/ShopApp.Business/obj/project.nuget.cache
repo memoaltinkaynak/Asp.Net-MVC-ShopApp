@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1pvKDEN9AZHpxFjSrFBUAtkc5N0blpUr8OIp5oATq4xEQvJfDDR4SunJDTGRYpJ8DF4oqUN9cdQgq3ZErFoMbA==",
+  "dgSpecHash": "yytfL2QSRSs2PC3LUzpnjre7qO5a/9szAn+47xaqOMDJEicCZHccERyZtytjV+B39mNaaAObKyQGudSEXVxXhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\shopapp\\ShopApp.Business\\ShopApp.Business.csproj",
+  "projectFilePath": "C:\\Users\\memo\\OneDrive\\Masaüstü\\ShopApp\\ShopApp.Business\\ShopApp.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\memo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\memo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

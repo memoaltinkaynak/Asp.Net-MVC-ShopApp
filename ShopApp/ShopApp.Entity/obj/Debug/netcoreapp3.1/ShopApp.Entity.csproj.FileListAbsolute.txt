@@ -21,7 +21,6 @@ C:\Users\memo\OneDrive\Masaüstü\StajProje\ShopApp\ShopApp.Entity\obj\Debug\net
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Entity\bin\Debug\netcoreapp3.1\ShopApp.Entity.deps.json
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Entity\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Entity\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
-C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.csproj.AssemblyReference.cache
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.AssemblyInfoInputs.cache
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.AssemblyInfo.cs

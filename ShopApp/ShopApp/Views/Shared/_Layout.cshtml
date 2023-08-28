@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
+    @RenderSection("Css",false)
+
     @*<link rel="stylesheet" href="~/css/style.css">*@
     <title>MemoApp</title>
 </head>
@@ -20,15 +22,7 @@
             @*Ekle güncelle sil de ekranda çıkacak uyaruı mesajı*@
             @if (TempData["message"] != null)
             {
-                var message = JsonConvert.DeserializeObject<AlertMessage>(TempData["message"] as String);
-
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="alert alert-@message.AlertType">
-                            @message.Message
-                        </div>
-                    </div>
-                </div>
+                <partial name="_ResultMessage" model="@(TempData.Get<AlertMessage>("message"))" />
             }
             @RenderBody()
         </div>
