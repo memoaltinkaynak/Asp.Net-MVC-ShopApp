@@ -535,3 +535,4 @@ C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
 C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\memo\OneDrive\Masaüstü\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\global.json

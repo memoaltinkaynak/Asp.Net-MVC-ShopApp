@@ -7,6 +7,7 @@ using Microsoft.CodeAnalysis;
 using Newtonsoft.Json;
 using ShopApp.Business.Abstract;
 using ShopApp.Entity;
+using ShopApp.Extensions;
 using ShopApp.Identity;
 using ShopApp.Models;
 using System;
@@ -220,10 +221,20 @@ namespace ShopApp.Controllers
 
                 if (_productService.Create(entity))
                 {
-                    CreateMessage("Kayıt eklendi", "success");
+                    TempData.Put("message", new AlertMessage()
+                    {
+                        Title = "Kayıt Eklendi",
+                        Message = "",
+                        AlertType = "success"
+                    });
                     return RedirectToAction("ProductList");
                 }
-                CreateMessage(_productService.ErrorMessage, "danger");
+                TempData.Put("message", new AlertMessage()
+                {
+                    Title = "Kayıt Eklendi",
+                    Message =_productService.ErrorMessage,
+                    AlertType = "danger"
+                });
                 return View(model);  
                 }
             return View(model);
@@ -303,10 +314,20 @@ namespace ShopApp.Controllers
 
                 if (_productService.Update(entity, categoryIds))
                 {
-                    CreateMessage("Kayıt güncellendi", "success");
+                    TempData.Put("message", new AlertMessage()
+                    {
+                        Title = "Kayıt güncellendi",
+                        Message = "",
+                        AlertType = "success"
+                    });
                     return RedirectToAction("ProductList");
                 }
-                CreateMessage(_productService.ErrorMessage, "danger");
+                TempData.Put("message", new AlertMessage()
+                {
+                    Title = "ERROR 404",
+                    Message = _productService.ErrorMessage,
+                    AlertType = "danger"
+                });
             }
             ViewBag.Categories = _categoryService.GetAll();
             return View(model);
@@ -322,13 +343,12 @@ namespace ShopApp.Controllers
                 _productService.Delete(entity);
             }
 
-            var msg = new AlertMessage()
+            TempData.Put("message", new AlertMessage()
             {
-                Message = $"{entity.Name} isimli ürün Silindi.",
+                Title = $"{entity.Name} isimli Ürün Silindi.",
+                Message = "Ürün Silindi.",
                 AlertType = "danger"
-            };
-
-            TempData["message"] = JsonConvert.SerializeObject(msg);
+            });
 
             return RedirectToAction("ProductList");
         }
@@ -360,13 +380,12 @@ namespace ShopApp.Controllers
 
                 _categoryService.Create(entity);
 
-                var msg = new AlertMessage()
+                TempData.Put("message", new AlertMessage()
                 {
-                    Message = $"{entity.Name} isimli Category Eklendi.",
+                    Title = $"{entity.Name} isimli Category Eklendi.",
+                    Message = "Category Eklendi.",
                     AlertType = "success"
-                };
-
-                TempData["message"] = JsonConvert.SerializeObject(msg);
+                });
 
                 return RedirectToAction("CategoryList");
             }
@@ -382,13 +401,12 @@ namespace ShopApp.Controllers
                 _categoryService.Delete(entity);
             }
 
-            var msg = new AlertMessage()
+            TempData.Put("message", new AlertMessage()
             {
-                Message = $"{entity.Name} isimli Category Silindi.",
+                Title = $"{entity.Name} isimli Category Silindi.",
+                Message = "Category Silindi.",
                 AlertType = "danger"
-            };
-
-            TempData["message"] = JsonConvert.SerializeObject(msg);
+            });
 
             return RedirectToAction("CategoryList");
         }
@@ -433,13 +451,12 @@ namespace ShopApp.Controllers
 
                 _categoryService.Update(entity);
 
-                var msg = new AlertMessage()
+                TempData.Put("message", new AlertMessage()
                 {
-                    Message = $"{entity.Name} isimli category güncellendi.",
+                    Title = $"{entity.Name} isimli category güncellendi.",
+                    Message = "Category Güncellendi.",
                     AlertType = "success"
-                };
-
-                TempData["message"] = JsonConvert.SerializeObject(msg);
+                });               
 
                 return RedirectToAction("CategoryList");
             }
@@ -452,18 +469,6 @@ namespace ShopApp.Controllers
         {
             _categoryService.DeleteFromCategory(productId, categoryId);
             return Redirect("/admin/categories/"+categoryId);
-        }
-
-        private void CreateMessage(string message, string alertype)
-        {
-            var msg = new AlertMessage()
-            {
-                Message = message,
-                AlertType = alertype
-            };
-
-            TempData["message"] = JsonConvert.SerializeObject(msg);
-
         }
 
     }
